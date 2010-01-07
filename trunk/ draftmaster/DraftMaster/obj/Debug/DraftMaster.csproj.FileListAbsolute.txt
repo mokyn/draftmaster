@@ -1,0 +1,27 @@
+C:\Users\Gurwinder\Desktop\VC#\DraftMaster\DraftMaster\DraftMaster\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Gurwinder\Desktop\VC#\DraftMaster\DraftMaster\DraftMaster\obj\Debug\MTG_Drafter.Main.resources
+C:\Users\Gurwinder\Desktop\VC#\DraftMaster\DraftMaster\DraftMaster\obj\Debug\DraftMaster.Properties.Resources.resources
+C:\Users\Gurwinder\Desktop\VC#\DraftMaster\DraftMaster\DraftMaster\obj\Debug\DraftMaster.csproj.GenerateResource.Cache
+C:\Users\Gurwinder\Desktop\VC#\DraftMaster\DraftMaster\DraftMaster\bin\Debug\DraftMaster.exe
+C:\Users\Gurwinder\Desktop\VC#\DraftMaster\DraftMaster\DraftMaster\bin\Debug\DraftMaster.pdb
+C:\Users\Gurwinder\Desktop\VC#\DraftMaster\DraftMaster\DraftMaster\obj\Debug\DraftMaster.exe
+C:\Users\Gurwinder\Desktop\VC#\DraftMaster\DraftMaster\DraftMaster\obj\Debug\DraftMaster.pdb
+C:\Users\Gurwinder\Desktop\VC#\MTG Drafter\DraftMaster\obj\Debug\DraftMaster.exe
+C:\Users\Gurwinder\Desktop\VC#\MTG Drafter\DraftMaster\obj\Debug\DraftMaster.pdb
+C:\Users\Gurwinder\Desktop\VC#\MTG Drafter\DraftMaster\bin\Debug\DraftMaster.exe
+C:\Users\Gurwinder\Desktop\VC#\MTG Drafter\DraftMaster\bin\Debug\DraftMaster.pdb
+C:\Users\Gurwinder\Desktop\VC#\MTG Drafter\DraftMaster\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Gurwinder\Desktop\VC#\MTG Drafter\DraftMaster\obj\Debug\MTG_Drafter.Main.resources
+C:\Users\Gurwinder\Desktop\VC#\MTG Drafter\DraftMaster\obj\Debug\DraftMaster.Properties.Resources.resources
+C:\Users\Gurwinder\Desktop\VC#\MTG Drafter\DraftMaster\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Gurwinder\Desktop\VC#\MTG Drafter\DraftMaster\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Gurwinder\Desktop\VC#\MTG Drafter\DraftMaster\bin\Debug\gInclude.dll
+C:\Users\Gurwinder\Desktop\VC#\SmartMTG\DraftMaster\DraftMaster\obj\Debug\DraftMaster.exe
+C:\Users\Gurwinder\Desktop\VC#\SmartMTG\DraftMaster\DraftMaster\obj\Debug\DraftMaster.pdb
+C:\Users\Gurwinder\Desktop\VC#\SmartMTG\DraftMaster\DraftMaster\bin\Debug\DraftMaster.exe
+C:\Users\Gurwinder\Desktop\VC#\SmartMTG\DraftMaster\DraftMaster\bin\Debug\DraftMaster.pdb
+C:\Users\Gurwinder\Desktop\VC#\SmartMTG\DraftMaster\DraftMaster\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Gurwinder\Desktop\VC#\SmartMTG\DraftMaster\DraftMaster\obj\Debug\MTG_Drafter.Main.resources
+C:\Users\Gurwinder\Desktop\VC#\SmartMTG\DraftMaster\DraftMaster\obj\Debug\DraftMaster.Properties.Resources.resources
+C:\Users\Gurwinder\Desktop\VC#\SmartMTG\DraftMaster\DraftMaster\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Gurwinder\Desktop\VC#\SmartMTG\DraftMaster\DraftMaster\obj\Debug\GenerateResource-ResGen.write.1.tlog

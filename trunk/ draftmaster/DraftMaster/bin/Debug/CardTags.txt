@@ -1,0 +1,28 @@
+//All spells
+Manafixer,Burn,Pump,
+Aura,Removal,Draw,
+Prevent,LifeGain,LifeLose,
+Targeted,Pacify,Discard,
+Tutor,Graveyard,Misc,
+Equipment,Aggro,Evasion,
+Sweeper,ReturnToHand,TokenGen,
+Random,Coinflip,Mill,
+
+//Targeted cards only
+TCreature,TEnchantment,TLand,
+TPlaneswalker,TArtifact,
+
+//Permanents only
+CIPEffect,LPEffect,MiscEffect,
+Activated,Triggered,
+
+//Creatures only
+Vanilla,Deathtouch,FirstStrike,
+DoubleStrike,Flying,Haste,
+Shroud,Trample,Vigilance,
+Unblockable,Indestructible,ExpertLevel,
+ProtGreen,ProtRed,ProtWhite,
+ProtBlack,ProtBlue,ProtColorless,
+ProtMonocolor,ProtMulticolor,Basiclandwalk,
+Nonbasiclandwalk,Plainswalk,Islandwalk,
+Swampwalk,Mountainwalk,Forestwalk
